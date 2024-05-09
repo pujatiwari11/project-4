@@ -84,7 +84,7 @@ The project includes the following features:
 
 
 ## Ethical Considerations
-In conducting our hotel cancellation analysis, ethical considerations were paramount. We handled customer data with sensitivity and respect for privacy. No personally identifiable information was used or shared during the analysis. Our focus was solely on understanding patterns and trends in hotel booking data to improve industry practices.
+In conducting our hotel cancellation analysis, ethical considerations were paramount. We handled customer data with sensitivity and respect for privacy. Our focus was solely on understanding patterns and trends in hotel booking data to improve industry practices.
 
 ## Credits
 This project was completed as part of a collaborative effort by Brad Fisher, Sameer Erande, Rhea Pius, and Puja Tiwari.
