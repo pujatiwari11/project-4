@@ -81,6 +81,8 @@ The project includes the following features:
 
 9. **Use Tableau for Visualization:**
    - Utilize Tableau for visualization by exporting the data or connecting directly to the dataset.
+   - Link to Tableau presentation here: https://public.tableau.com/views/HotelCancellationFeaturesAnalysis/Story1?:language=en-GB&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
 
 
 ## Ethical Considerations
